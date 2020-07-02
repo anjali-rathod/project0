@@ -1,0 +1,33 @@
+.Advanced input[type=submit]{
+
+		background: blue;
+		color: white;
+		text-align:left; 
+	
+}
+.topright {
+	text-align: right;
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 200px;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+body{
+	text-align:center;
+}
+
+.Advanced {
+		text-align:left; 
+	
+}
+.Advanced input[type=text]{
+
+		
+	
+}
